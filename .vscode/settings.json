@@ -1,0 +1,8 @@
+{
+    "python.autoComplete.extraPaths": [
+      "/home/fernando/.cache/pypoetry/virtualenvs/adimplere-test-api-Kj3KUyuM-py3.9/lib/python3.9/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+      "/home/fernando/.cache/pypoetry/virtualenvs/adimplere-test-api-Kj3KUyuM-py3.9/lib/python3.9/site-packages"
+    ]
+}

@@ -1,0 +1,7 @@
+version: "3"
+services:
+  adimplere-test-api:
+    container_name: adimplere_test_api
+    ports:
+      - "8888:8888"
+    build: .

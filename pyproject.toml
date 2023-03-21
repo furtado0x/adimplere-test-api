@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "adimplere-test-api"
+version = "0.1.0"
+description = ""
+authors = ["Fernando Lima <fernando_profec@3coracoes.com.br>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+fastapi = "^0.95.0"
+httpx = "^0.23.3"
+uvicorn = "^0.21.1"
+fastapi-pagination = "^0.11.4"
+fastapi-camelcase = "^1.0.5"
+python-dotenv = "^1.0.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
